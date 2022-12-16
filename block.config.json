@@ -1,0 +1,8 @@
+{
+  "name": "send_mailer_app",
+  "type": "appBlock",
+  "source": {
+    "https": "https://github.com/devthalal/send_mailer_app",
+    "ssh": "git@github.com:devthalal/send_mailer_app.git"
+  }
+}
